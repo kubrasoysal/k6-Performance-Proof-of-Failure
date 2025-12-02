@@ -47,7 +47,8 @@ Yol/Dosya Hatası (Terminal Uyumsuzluğu): (Bu, PowerShell'e geçişi zorunlu k�
 ![image alt](https://github.com/kubrasoysal/k6-Performance-Proof-of-Failure/blob/592efb24cdc9b8ebf63f9899e0b278b39a968455/test-2.png)
 
 
-3. Nihai Başarısızlık (FAIL) KanıtıTestin 30 saniye sonunda FAIL olarak sonuçlandığı, $p95$ bütçesinin aşıldığı ve hata mesajının göründüğü kritik terminal çıktısı.
+3. Nihai Başarısızlık (FAIL) Kanıtı
+Testin 30 saniye sonunda FAIL olarak sonuçlandığı, $p95$ bütçesinin aşıldığı ve hata mesajının göründüğü kritik terminal çıktısı.
 
 ![image alt](https://github.com/kubrasoysal/k6-Performance-Proof-of-Failure/blob/592efb24cdc9b8ebf63f9899e0b278b39a968455/test-3.1.png)
 ![image alt](https://github.com/kubrasoysal/k6-Performance-Proof-of-Failure/blob/592efb24cdc9b8ebf63f9899e0b278b39a968455/test-3.2.png)
